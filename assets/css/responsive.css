@@ -1,0 +1,168 @@
+/* // Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) { 
+    .main_menu_ul {
+        margin-right: 0px;
+    }
+    #main_menu_ul_id li {
+        display: inline-flex;
+    }
+    .header_contact_number {
+        padding-bottom: 10px;
+    }
+    .section_heading p {
+        font-size: 14px;
+    }
+    .section_heading h3 {
+        font-size: 22px;
+    }
+    .testimonial_section{
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+    .testimonial_section{
+        padding-top: 20px;
+    }
+    .client-review-contents{
+        padding-top: 20px;
+        padding-bottom: 20px;
+
+    }
+    .client_slider_content h3{
+        font-size: 23px;
+    }
+    .section_heading {
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+    .recommendation_price a {
+        font-size: 14px;
+        padding-left: 16px;
+        padding-right: 16px;
+        padding-top: 4px;
+        padding-bottom: 4px;
+        margin-top: 10px;
+    }
+    .card_image_section {
+        text-align: center;
+        width: 50%;
+        height: 170px;
+        margin: 0 auto;
+    }
+    .card_image_section img {
+        object-fit: contain;
+        height: 100%;
+        width: 100%;
+    }
+    
+    .latest_pakages_card .card-body{
+        display: flex;
+    }
+    .latest_pakages_card .latest_card_content {
+        width: 45%;
+        padding-top: 50px;
+    }
+    .card_price_part {
+        display: block;
+
+    }
+    .lightbox_gallery_row a {
+        text-align: center;
+    }
+    .recommanded_img {
+        height: 150px;
+        width: 70%;
+        margin: 0 auto;
+    }
+    .recommendation_content {
+        padding-left: 10px;
+    }
+    .client_slider_content p{
+        width: 88%;
+        margin: 0 auto;
+        font-size: 13px;
+    }
+    .f_copyright{
+        text-align: center;
+    }
+    .f_design{
+        text-align: center;
+    }
+    .advertisement_image {
+        height: auto;
+    }
+    .advertisement_image img {
+        object-fit: scale-down;
+        height: auto;
+    }
+    .banner_section {
+        background-position: initial;
+        padding-top: 0px;
+    }
+    .banner_title h1 {
+        font-size: 29px;
+        padding-top: 20px;
+    }
+    .card_price_part h3 {
+        font-size: 18px;
+
+    }
+    .latest_card_content p {
+        font-size: 15px;
+    }
+    .recommendation_price h2 {
+        font-size: 18px;
+
+    }
+    .footer_col_link {
+        padding-top: 15px;
+    }
+ }
+
+/* // Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) { 
+
+ }
+
+/* // Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) { 
+
+ }
+
+/* // Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+ }
+
+/* // Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) { }
+
+
+@media (max-width: 920px){
+    .recommendation_col {
+        /* height:auto; */
+    }
+}
+@media (min-width: 1200px){
+    .container {
+        max-width: 1200px;
+    }
+    .recommendation_col {
+        min-height: 150px;
+    }
+    .col_padding_10{
+        padding-right: 8px;
+        padding-left: 8px;
+    }
+    .col_padding_10 .col-lg-3, .col_padding_10 .col-md-3{
+        padding-right: 7px;
+        padding-left: 7px;
+    }
+    .owl_slider_our_products .owl-carousel .owl-stage-outer {
+        min-height: 410.266px!important;
+    }
+    .testimonial_section{
+        padding-top: 130px;
+        padding-bottom: 110px;
+    }
+
+}
